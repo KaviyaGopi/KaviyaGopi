@@ -27,6 +27,8 @@ I'm a hard worker and detail oriented college student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaviyagopi" alt="kaviyagopi" /></a> </p>
 
+<!--contact me-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaviyagopi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaviyagopi_" height="30" width="40" /></a>
