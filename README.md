@@ -1,5 +1,9 @@
 
 <h1 align="center">Hello 👋, I'm Kaviya Gopi</h1>
+
+<!--cover picture-->
+<img src = "https://xrupdate.news/wp-content/uploads/2020/01/By-khoamartin_1.jpg" width=100%>
+
 <h2>About Me : </h2>
 <h3 align="center">A passionate Student at Sathyabama Institute of Science and Technology
 Working towards Bachelor of Engineering ( B.E ) focused in Computer Science and Engineering
@@ -8,6 +12,8 @@ I'm a hard worker and detail oriented college student</h3>
 </br>
 
 <!-- - 🔭 I’m currently working on ... -->
+<h3>More About Me</h3>
+
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on **Open source**
 - 🤔 I’m looking for help with **Java**
