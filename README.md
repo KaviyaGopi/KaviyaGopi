@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Kaviya Gopi</h1>
 
 <!--cover picture-->
-<img src = "https://images.unsplash.com/photo-1432807653616-37f5f5c2508e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format" width="45%" height:"500px">
+<img src = "https://images.unsplash.com/photo-1432807653616-37f5f5c2508e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format" width=100%>
 
 <h2>About Me : </h2>
 <h3 align="center">A passionate Student at Sathyabama Institute of Science and Technology
