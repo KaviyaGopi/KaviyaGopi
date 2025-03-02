@@ -1,26 +1,23 @@
 
-<h1 align="center">Hello 👋, I'm Kaviya Gopi</h1>
+<h1 align="center">Hey There 👋, I'm Kaviya Gopi</h1>
 
 <!--cover picture-->
 <img src = "https://images.unsplash.com/photo-1432807653616-37f5f5c2508e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format" width=100%>
 
 <h2>About Me : </h2>
-<h3 align="center">A passionate Student at Sathyabama Institute of Science and Technology
-Working towards Bachelor of Engineering ( B.E ) focused in Computer Science and Engineering
-I'm a hard worker and detail oriented college student</h3>
+<h3 align="center">Currently pursuing my Master of Science in Computer Science at Stony Brook University. I'm a passionate developer who loves turning ideas into code and creating solutions to real-world problems, I have built a solid foundation through academic projects, hands-on learning, and independent development. I am eager to apply my knowledge, contribute to impactful projects, and grow as a Software Engineer.</h3>
 
 </br>
 
 <!-- - 🔭 I’m currently working on ... -->
 <h3>More About Me</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently progressing in **LLM**
 - 👯 I’m looking to collaborate on **Open source**
-- 🤔 I’m looking for help with **Java**
 - 💬 Ask me about **Python**
-- 📫 How to reach me: **kaviyagopi002@gmail.com**
+- 📫 How to reach me: **imkaviyag@gmail.com**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **These colleges and universities think we've more than 24 hours in a day**
+- ⚡ Fun fact: **I commit, but I never forget – especially those commit messages**
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaviyagopi&label=Profile%20views&color=0e75b6&style=flat" alt="kaviyagopi" /> </p>
