@@ -2,7 +2,8 @@
 <h1 align="center">Hey There 👋, I'm Kaviya Gopi</h1>
 
 <!--cover picture-->
-<img src="https://drive.google.com/uc?export=view&id=1ZY_nPwLWgt0tKOlDteytrG7PYongKuso" width="100%" />
+
+<img src="https://drive.google.com/uc?export=view&id=1JpnqYTEmsCTDuzWnXdqh_MncjcRfr2lU" width="100%" />
 
 
 <h2>About Me : </h2>
