@@ -2,7 +2,7 @@
 <h1 align="center">Hey There 👋, I'm Kaviya Gopi</h1>
 
 <!--cover picture-->
-<img src = "blob:https://web.whatsapp.com/473c08f6-6c20-48e9-b038-1f60ee72c5e5" width=100%>
+<img src = "https://drive.google.com/file/d/1ZY_nPwLWgt0tKOlDteytrG7PYongKuso/view" width=100%>
 
 <h2>About Me : </h2>
 <h3 align="center">Currently pursuing my Master of Science in Computer Science at Stony Brook University. I'm a passionate developer who loves turning ideas into code and creating solutions to real-world problems, I have built a solid foundation through academic projects, hands-on learning, and independent development. I am eager to apply my knowledge, contribute to impactful projects, and grow as a Software Engineer.</h3>
